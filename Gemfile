@@ -51,7 +51,7 @@ end
 
 gem 'react-rails'
 
-gem 'showdown-rails'
+gem 'marked-rails'
 
 gem 'bootstrap-sass'
 gem 'autoprefixer-rails'
